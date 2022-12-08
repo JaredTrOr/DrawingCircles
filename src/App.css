@@ -14,3 +14,8 @@ body{
     height: 10px;
     background-color: blue;
 }
+
+.controls{
+    cursor: pointer;
+    margin-right: 1rem;
+}
